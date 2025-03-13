@@ -68,7 +68,7 @@ Para ejecutar este proyecto, necesitas lo siguiente:
 
 📂 Estructura del Proyecto
 ```
-snake_game/
+Juego-de-la-Culebrita-Snake/
 │
 ├── snake_game.py          # Código principal del juego
 ├── README.md              # Documentación del proyecto
